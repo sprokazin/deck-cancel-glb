@@ -1,0 +1,13 @@
+#root {
+  width: 100%;
+  text-align: center;
+}
+
+.abort-container {
+  position: absolute;
+  background-color: white;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 30px;
+}
